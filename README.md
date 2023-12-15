@@ -1,4 +1,4 @@
-#GrandStrandSystems
+# GrandStrandSystems
 
 Introduction
 Welcome to my Computer Science Portfolio! This repository showcases my work in software testing, automation, and quality assurance, reflecting my journey and learning in the computer science program.
